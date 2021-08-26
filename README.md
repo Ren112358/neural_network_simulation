@@ -12,7 +12,8 @@ If you need to change parameters which are related to Hodgkin-Huxley model, you 
 ## Run simulation
 You can simulate neural network acrivity by the following command:
 ```
-$ ./run src/run.sh
+$ cd src
+$ ./run.sh
 ```
 
 ## Plot results
