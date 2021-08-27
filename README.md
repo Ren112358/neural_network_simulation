@@ -22,5 +22,8 @@ If you want figures of neural network activity sucn as membrane potential, you c
 $ python plot.py
 ```
 
+## LICENSE
+[MIT LICENSE](./LICENSE)
+
 # References
 * A. L. Hodgkin and A. F. Huxley, [A quantitative description of membrance current and its application to conduction and excitation in nerve](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC1392413/), J Physiol, 1952.
